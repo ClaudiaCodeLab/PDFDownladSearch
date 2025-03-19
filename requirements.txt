@@ -1,0 +1,5 @@
+googlesearch-python==1.2.3
+requests==2.31.0
+tqdm==4.66.1
+google-api-python-client==2.97.0
+python-dotenv==1.0.0 

@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Downloaded PDFs
+downloaded_pdfs/
+
+# Generated log files
+pdf_links_*.txt
+download_log_*.txt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 
